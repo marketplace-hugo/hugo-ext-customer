@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Клиент**.
 
@@ -10,13 +10,13 @@
   - `position-y` - позиция обложки по оси Y.
 - `date` - дата публикации клиента.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-customer.git archetypes/customer
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
